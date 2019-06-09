@@ -121,7 +121,7 @@
         <dependency>
             <groupId>org.inventivetalent.packetlistener</groupId>
             <artifactId>api</artifactId>
-            <version>[3.2.0,)</version>
+            <version>[3.7.3-SNAPSHOT,)</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
